@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\PracticeFolder\\ClassRoom\\CompleteMethodAdd\\CompleteMethodAdd\\CompleteMethodAdd.csproj",
-      "projectName": "CompleteMethodAdd",
-      "projectPath": "C:\\Users\\user\\Desktop\\PracticeFolder\\ClassRoom\\CompleteMethodAdd\\CompleteMethodAdd\\CompleteMethodAdd.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\PracticeFolder\\ClassRoom\\CompleteMethodAdd\\CompleteMethodAdd\\AddNumbersTask.csproj",
+      "projectName": "AddNumbersTask",
+      "projectPath": "C:\\Users\\user\\Desktop\\PracticeFolder\\ClassRoom\\CompleteMethodAdd\\CompleteMethodAdd\\AddNumbersTask.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\Desktop\\PracticeFolder\\ClassRoom\\CompleteMethodAdd\\CompleteMethodAdd\\obj\\",
       "projectStyle": "PackageReference",
